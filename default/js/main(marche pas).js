@@ -5,7 +5,6 @@ const main = () => {
 	console.log("MAIN");
 	test_voiture();
 	return test_voiture;
-
 	let user = {
 		firstName : "Dinath",
 		lastName : "Sunthararajah",
